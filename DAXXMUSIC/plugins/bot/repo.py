@@ -40,12 +40,13 @@ async def start(_, msg):
             InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC")
         ],
         [
-            InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://github.com/Sunnykumar1122/misschatbot"),
+            InlineKeyboardButton("CHAT GROUP", url=f"https://github.com/Sunnykumar1122/misschatbot"),
             InlineKeyboardButton("channel", url="https://t.me/FUKRA_POWERED")
         ]
-       [     InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"),
-            InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYUSER")
-    ],
+       [     InlineKeyboardButton("ZeninXmusic", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"),
+            InlineKeyboardButton("︎USER BOT", url=f"https://github.com/Sunnykumar1122/BABYUSER")
+    ]
+     
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await msg.reply_photo(
