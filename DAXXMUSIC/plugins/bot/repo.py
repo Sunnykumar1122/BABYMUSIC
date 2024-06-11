@@ -29,21 +29,25 @@ async def start(_, msg):
             InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-            InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/babe_bot_update"),
-            InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/Fushii_warr")
+            InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/DEMON_BOT_SUPPORT"),
+            InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_ROLEX_lll"),
         ],
         [
-            InlineKeyboardButton("ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/FUKRA_DEMON")
+            InlineKeyboardButton("ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/FUKRA_DEMON"),
+            InlineKeyboardButton("DEMON NETWORK", url="http://t.me/DEMON_NETWORK"),
+         
         ],
         [
             InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/Sunnykumar1122/BABYBANALL"),
-            InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC")
+            InlineKeyboardButton("︎ BABY 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC"),
         ],
         [
-            InlineKeyboardButton("CHAT GROUP", url=f"https://github.com/Sunnykumar1122/misschatbot"),
-            InlineKeyboardButton("channel", url="https://t.me/FUKRA_POWERED")
+             InlineKeyboardButton("ZeninXmusic", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"), 
+              InlineKeyboardButton("CHAT BOT", url=f"https://github.com/Sunnykumar1122/misschatbot"),
+            
         ],
-        [     InlineKeyboardButton("ZeninXmusic", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"),
+        [   
+             InlineKeyboardButton("SPAM BOT", url=f"https://github.com/Sunnykumar1122/ROLEX_SPAM"),
             InlineKeyboardButton("︎USER BOT", url=f"https://github.com/Sunnykumar1122/BABYUSER")
     ],
      
@@ -67,7 +71,7 @@ async def repo(_, message):
         for user in users:
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/Sunnyjumar1122/BABYMUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/FUKRA_POWERED)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/Sunnyjumar1122/BABYMUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/FUKRA_DEMON)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
