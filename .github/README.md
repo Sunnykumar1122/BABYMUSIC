@@ -32,7 +32,7 @@ GO TO [RELOAD.PY](https://github.com/Sunnykumar1122/BABYMUSIC/blob/Master/BABYMU
 [![Contributors](https://contrib.rocks/image?repo=Sunnykumar1122/BABYMUSIC)](https://github.com/Sunnykumar1122/BABYMUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/babe_bot_update"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/DEMON_BOT_SUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thebotolbaba@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
