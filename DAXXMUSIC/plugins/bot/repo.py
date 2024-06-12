@@ -29,7 +29,7 @@ async def start(_, msg):
             InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-            InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/DEMON_BOT_SUPPORT"),
+            InlineKeyboardButton("DEMON 𝗛𝗘𝗟𝗣", url="https://t.me/DEMON_BOT_SUPPORT"),
             InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_ROLEX_lll"),
         ],
         [
@@ -39,7 +39,7 @@ async def start(_, msg):
         ],
         [
             InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/Sunnykumar1122/BABYBANALL"),
-            InlineKeyboardButton("︎ BABY 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC"),
+            InlineKeyboardButton("︎BABY 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC"),
         ],
         [
              InlineKeyboardButton("ZeninXmusic", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"), 
