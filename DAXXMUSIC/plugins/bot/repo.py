@@ -29,26 +29,26 @@ async def start(_, msg):
             InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/Babee_music_bot?startgroup=true")
         ],
         [
-            InlineKeyboardButton("DEMON 𝗛𝗘𝗟𝗣", url="https://t.me/DEMON_BOT_SUPPORT"),
-            InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ll_ROLEX_lll"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/DEMON_BOT_SUPPORT"),
+            InlineKeyboardButton("ᴏᴡɴᴇʀ ʀᴏʟᴇx", url="https://t.me/ll_ROLEX_lll"),
         ],
         [
             InlineKeyboardButton("ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url="https://t.me/FUKRA_DEMON"),
-            InlineKeyboardButton("DEMON NETWORK", url="http://t.me/DEMON_NETWORK"),
+            InlineKeyboardButton("ᴅᴇᴍᴏɴ ɴᴇᴛᴡᴏʀᴋ", url="http://t.me/DEMON_NETWORKS"),
          
         ],
         [
             InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://github.com/Sunnykumar1122/BABYBANALL"),
-            InlineKeyboardButton("︎BABY 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sunnykumar1122/BABYMUSIC"),
+            InlineKeyboardButton("︎ʙᴀʙʏ X ᴍᴜsɪᴄ", url=f"https://github.com/Sunnykumar1122/BABYMUSIC"),
         ],
         [
-             InlineKeyboardButton("ZeninXmusic", url=f"https://github.com/Sunnykumar1122/ZENINXMUISC"), 
-              InlineKeyboardButton("CHAT BOT", url=f"https://github.com/Sunnykumar1122/misschatbot"),
+             InlineKeyboardButton("ᴢᴇɴɪɴ X ᴍᴜɪsᴄ", url=f"https://github.com/Sunnykumar1122/zeninXmuisc"), 
+              InlineKeyboardButton("ᴄʜᴀᴛ ʙᴏᴛ", url=f"https://github.com/Sunnykumar1122/misschatbot"),
             
         ],
         [   
-             InlineKeyboardButton("SPAM BOT", url=f"https://github.com/Sunnykumar1122/ROLEX_SPAM"),
-            InlineKeyboardButton("︎USER BOT", url=f"https://github.com/Sunnykumar1122/BABYUSER")
+             InlineKeyboardButton("sᴘᴀᴍ ʙᴏᴛ", url=f"https://github.com/Sunnykumar1122/ROLEX_SPAM"),
+            InlineKeyboardButton("︎ᴜsᴇʀ ʙᴏᴛ", url=f"https://github.com/Sunnykumar1122/BABYUSER")
     ],
      
     ]
